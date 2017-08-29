@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alifu_a" format="1">
+  <advance width="624" height="-120"/>
+  <outline>
+    <contour>
+      <point x="523" y="880" type="line" name="hr00"/>
+      <point x="523" y="772" type="line"/>
+      <point x="105" y="772" type="line"/>
+      <point x="105" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="531" y="680" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="552" type="line"/>
+      <point x="221" y="552" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="105" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <vstem pos="105" width="115" />
+      <vstem pos="414" width="116" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="999" height="-120"/>
+  <unicode hex="078B"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line" name="hr00"/>
+      <point x="105" y="684" type="line"/>
+      <point x="221" y="684" type="line"/>
+      <point x="221" y="406" type="line"/>
+      <point x="395" y="406" type="line"/>
+      <point x="395" y="684" type="line"/>
+      <point x="511" y="684" type="line"/>
+      <point x="511" y="406" type="line"/>
+      <point x="745" y="406" type="line"/>
+      <point x="745" y="554" type="line"/>
+      <point x="633" y="554" type="line"/>
+      <point x="633" y="682" type="line"/>
+      <point x="861" y="682" type="line"/>
+      <point x="861" y="278" type="line"/>
+      <point x="221" y="278" type="line"/>
+      <point x="221" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <vstem pos="105" width="115" />
+      <vstem pos="394" width="115" />
+      <vstem pos="744" width="116" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
